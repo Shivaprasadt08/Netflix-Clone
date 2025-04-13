@@ -10,10 +10,26 @@ It is intended for educational and practice purposes.
 📁 Project Structure
 NetFlix/
 ├── netflix.html          # Main HTML file
+
+
+
+
 ├── netflix.css           # Styling for the layout
+
+
+
 ├── netflix-bg.jpg        # Background hero image
+
+
+
 ├── logo1.jpeg            # Netflix logo
-├── m1.jpeg to m7.jpeg    # Movie thumbnails (if used)
+
+
+
+├── m1.jpeg to m7.jpeg    # Movie thumbnails 
+
+
+
 └── other assets...
 
 🚀 How to Run :>
