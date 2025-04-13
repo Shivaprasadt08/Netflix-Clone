@@ -23,6 +23,11 @@ NetFlix/
 3,Enjoy the static clone UI!
 
 //Commands..
+
+
+
+
+
   git clone https://github.com/your-username/Netflix-Clone.git
 
 
