@@ -24,4 +24,9 @@ NetFlix/
 
 //Commands..
   git clone https://github.com/your-username/Netflix-Clone.git
+
+
+
+
+  
   cd Netflix-Clone
