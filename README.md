@@ -8,7 +8,13 @@ It is intended for educational and practice purposes.
 
 
 📁 Project Structure
+
+
+
 NetFlix/
+
+
+
 ├── netflix.html          # Main HTML file
 
 
