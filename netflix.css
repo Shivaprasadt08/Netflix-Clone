@@ -1,0 +1,457 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    /* overflow-x: hidden; */
+
+}
+.p1{
+    height: 100vh;
+    width: 100vw;
+    background-image:url(./netflix-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.89;
+    
+
+}
+.p11{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: rgb(86, 91, 91); */
+    border: 1px solid black;
+    border: none;
+
+}
+
+.logo {
+    height: 100%;
+    width: auto;
+    margin-left: 4%;
+    display: flex;
+    align-items: center;
+    mix-blend-mode:screen;
+    z-index: 100000;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80%;
+    width: 35%;
+    border: 1px solid black;
+    margin-right:-8%;
+    position: relative;
+    right: 10%;
+    border: none;
+
+}
+
+
+.lang{
+    height:65%;
+    width: 97%;
+    border: 1px solid black;
+    border-radius: 20%;
+
+    border: none; */
+    border: none;
+
+}
+
+
+.right .lang .s1{
+    height:72% ;
+    width: 40%;
+    margin-top: 4%;
+    margin-left: 50%;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+
+}
+.signin{
+    color: white;
+    height:49%;
+    width: 31%;
+    border: 1px solid rgb(56, 157, 234);
+    border-radius:17px;
+    margin-top: 2%;
+    margin-right: 10%;
+    text-align: center; 
+    border-radius: 20%;
+    border: none;
+    position:relative;
+    left: -13px;
+    
+}
+
+#Signin{
+    height: 55px;    
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: -6%;
+    border-radius: 25px;
+    background-color: rgb(208, 21, 21);
+    color: white;
+    font-size: 0.8em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+
+.center{
+    height: 500px;
+    margin-top: 20px;
+    border: 2px solid blue;
+    color: rgb(249, 240, 240);
+    border: none;
+}
+
+.center .center1{
+    height: 100px;
+    border: 2px solid blue;
+    margin-top: 120px;
+    text-align: center;
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:none;
+}
+
+.center .center2{
+    height: 100px;
+    border: 2px solid blue;
+    margin-top: 46px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:none;
+    
+}
+.center3{
+    height: 80px;
+    border: 2px solid blue;
+    margin-top: -46px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:none;
+}
+.cp1{
+    height: 130px;
+    border: 2px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -63px;
+    border: none;
+    position: relative;
+    right: -6%;
+    /* border-radius: 30%; */
+    /* margin-top: 14px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif; */
+   
+}
+.ip{
+    height: 100px;    
+    border: 2px solid blue;
+    width: 40%;
+    margin: 60% 13%;
+    /* border-radius: 30%; */
+    /* border-radius: 20%;
+    background-color: rgb(51, 50, 50); */
+    border: none;
+}
+#i1{
+    height: 58px;
+    width: 100%; 
+    background-color: rgb(46, 184, 184);   
+    color: white; 
+    border-radius: 30px;
+    margin: 7% 28%;
+    background-color: rgb(51, 50, 50);
+    border: none;
+}
+.b1{
+    height: 100px;    
+    width: 30%;
+    margin: 60% 13%;
+    position: relative;
+    right: 18%;
+
+}
+#getstarted{
+    height: 60px;    
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 30%;
+    border-radius: 25px;
+    background-color: rgb(208, 21, 21);
+    color: white;
+    font-size: 1.8em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#arrow{
+    height:32px;
+    width: 25px;
+    margin: -3% 90%;
+    border: 2px solid blue;
+    position: absolute;
+    left:-39px;
+    border: none;
+}
+
+.p2{
+    border: 2px solid black;
+    height: 400px;
+    background-image: linear-gradient(rgb(90, 90, 90), rgb(37, 38, 39));
+    border: none;
+    margin-top: -10px;
+}
+
+#c1{
+    border: 2px solid black;
+    height: 10px;
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-top: 33px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 1.8em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+}
+#c2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 300px;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+}
+#c2 #c11{
+    border: 2px solid black;
+    height: 300px;
+    width: 20%;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+    border: none;
+}
+#c2 #c11 img{
+    border-radius: 20px;
+}
+
+#c2 #c11 img:hover{
+    scale: 1.1;
+    transition-property: all;
+    transition-duration: 2ms;
+    transition-timing-function: ease-in;
+}
+
+
+.p3{
+    border: 2px solid black;
+    height: 400px;
+    background-image: linear-gradient(rgb(43, 41, 41), rgb(37, 38, 39)); 
+    margin-top: 0px;
+    border: none;
+
+}
+#ca{
+    border: 2px solid black;
+    height: 1px;
+    margin-top: -19px;
+    margin-left: 33px;
+    padding: 20px;
+    font-size: 1.8em;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    margin-top: -24px;
+    padding: 20px;
+
+}
+#ca2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    height: 300px;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+  
+
+}
+#ca2 #ca1{
+    border: 2px solid black;
+    height: 250px;
+    width: 20%;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: linear-gradient(rgb(122, 143, 227), rgb(8, 125, 242));
+    border-radius: 25px;
+    border: none;
+
+}
+
+#cb1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 26px 11px;
+}
+#ca2 #ca1 #cb1 :hover{
+    scale: 1.1;
+    transition: 0.4s;
+}
+
+.more-reasons {
+    padding: 40px;
+    background-image: linear-gradient(rgb(90, 90, 90), rgb(37, 38, 39));
+
+
+}
+
+.reasons-title {
+    border: 2px solid black;
+    height: 1px;
+    margin-top: -24px;
+    padding: 20px;
+    font-size: 1.8em;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    margin-bottom: 40px;
+}
+
+/* Flexbox Layout for Features */
+.reasons-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 17px;
+    height: 229px;
+}
+
+.reason-box {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    text-align: left;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 150px;
+    color: aliceblue;
+}
+
+.reason-box h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.reason-box p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Icons */
+.icon {
+    align-self: flex-end;
+    width: 30px;
+    height: 30px;
+}
+
+/* Add custom icons here */
+.tv-icon {
+    background: url('tv-icon.png') no-repeat center;
+    background-size: contain;
+}
+
+.download-icon {
+    background: url('download-icon.png') no-repeat center;
+    background-size: contain;
+}
+
+.watch-icon {
+    background: url('watch-icon.png') no-repeat center;
+    background-size: contain;
+}
+
+.kids-icon {
+    background: url('kids-icon.png') no-repeat center;
+    background-size: contain;
+}
+
+/* FAQ Section */
+.faq-section {
+    padding: 40px;
+    background-image: linear-gradient(rgb(31, 29, 29), rgb(37, 38, 39));
+
+}
+
+.faq-title {
+    border: 2px solid black;
+    height: 1px;
+    margin-top: -29px;
+    padding: 20px;
+    font-size: 1.8em;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    margin-bottom: 40px;
+}
+
+.faq-container {
+    /* display: flex; */
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: space-evenly;
+    width: 822px;
+    margin: 0 auto;
+    margin-left: 7%;
+}
+
+.faq-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 20px;
+    width: 150%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.faq-question {
+    font-size: 1.26em;
+    color: rgb(219, 230, 241);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.faq-toggle {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
