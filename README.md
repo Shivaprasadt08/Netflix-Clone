@@ -1,10 +1,12 @@
 📺 Netflix Clone (Static Website)
 This is a static Netflix Clone project built using HTML and CSS, showcasing a responsive landing page similar to the original Netflix homepage. 
 It is intended for educational and practice purposes.
+=> Fontawesome for different icons.
 
 🛠️ Tech Stack
 > HTML5
 > CSS3
+
 
 
 📁 Project Structure
